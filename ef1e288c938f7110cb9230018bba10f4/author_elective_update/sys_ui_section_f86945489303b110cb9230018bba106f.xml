@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="f86945489303b110cb9230018bba106f" sys_domain="global" table="x_1258941_gest_o_0_produtos" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>imagens</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 16:45:32</sys_created_on>
+            <sys_id>b46945489303b110cb9230018bba1078</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1258941_gest_o_0_produtos" sys_domain="global" view="Default view">f86945489303b110cb9230018bba106f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 16:45:32</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1258941_gest_o_0_produtos</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-12-06 16:45:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f86945489303b110cb9230018bba106f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1258941_gest_o_0_produtos</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope>
+            <sys_update_name>sys_ui_section_f86945489303b110cb9230018bba106f</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-12-06 16:45:31</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</application>
+        <file_path/>
+        <instance_id>fe09b9bddbe6791cb1eb9027c59619f7</instance_id>
+        <instance_name>dev214569</instance_name>
+        <name>sys_ui_section_f86945489303b110cb9230018bba106f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="f86945489303b110cb9230018bba106f" sys_domain="global" table="x_1258941_gest_o_0_produtos" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>imagens</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 16:45:32</sys_created_on><sys_id>b46945489303b110cb9230018bba1078</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1258941_gest_o_0_produtos" sys_domain="global" view="Default view">f86945489303b110cb9230018bba106f</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 16:45:32</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1258941_gest_o_0_produtos</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-06 16:45:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>f86945489303b110cb9230018bba106f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1258941_gest_o_0_produtos</sys_name><sys_overrides/><sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope><sys_update_name>sys_ui_section_f86945489303b110cb9230018bba106f</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-06 16:45:31</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>1369540345</payload_hash>
+        <record_name>Produtos</record_name>
+        <reverted_from/>
+        <source>6b1e288c938f7110cb9230018bba10f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 16:45:32</sys_created_on>
+        <sys_id>346945489303b110cb9230018bba107a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c400534670000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 16:45:32</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>b8694548d803b11056b25778b9b31679</update_guid>
+        <update_guid_history>b8694548d803b11056b25778b9b31679:1369540345</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-06 16:46:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>548be21655314b22a3c8447d3aa239c4</sys_id>
+        <sys_metadata>f86945489303b110cb9230018bba106f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package>
+        <sys_parent display_value="Produtos">8788b00893cf7110cb9230018bba1077</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope>
+        <sys_scope_delete display_value="">02e0b1a10fb342b48208f98a1a7c91d1</sys_scope_delete>
+        <sys_update_name>sys_ui_section_f86945489303b110cb9230018bba106f</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_f86945489303b110cb9230018bba106f">346945489303b110cb9230018bba107a</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-06 16:46:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

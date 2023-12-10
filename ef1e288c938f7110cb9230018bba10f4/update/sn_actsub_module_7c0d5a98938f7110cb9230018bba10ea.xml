@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="9d4b0610934f7110cb9230018bba10dc" table="sn_actsub_module">
+    <sn_actsub_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <disable_notifications>false</disable_notifications>
+        <name>Supervisor Modules</name>
+        <order/>
+        <roles>x_1258941_gest_o_0.Supervisores</roles>
+        <sys_class_name>sn_actsub_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 17:29:41</sys_created_on>
+        <sys_domain>9d4b0610934f7110cb9230018bba10dc</sys_domain>
+        <sys_id>7c0d5a98938f7110cb9230018bba10ea</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Supervisor Modules</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope>
+        <sys_update_name>sn_actsub_module_7c0d5a98938f7110cb9230018bba10ea</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 17:29:41</sys_updated_on>
+    </sn_actsub_module>
+</record_update>

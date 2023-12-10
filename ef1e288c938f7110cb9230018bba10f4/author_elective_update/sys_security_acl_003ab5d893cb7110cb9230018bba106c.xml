@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="DELETE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition table="x_1258941_gest_o_0_pedidos">numberISNOTEMPTY^EQ<item endquery="false" field="number" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </condition>
+        <description>Allow create for records in x_1258941_gest_o_0_pedidos, for users with role x_1258941_gest_o_0.Analistas, and if the ACL condition (numberISNOTEMPTY^EQ) evaluates to true.</description>
+        <local_or_existing>Local</local_or_existing>
+        <name>x_1258941_gest_o_0_pedidos</name>
+        <operation display_value="create">create</operation>
+        <script/>
+        <security_attribute/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 14:57:14</sys_created_on>
+        <sys_id>003ab5d893cb7110cb9230018bba106c</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>x_1258941_gest_o_0_pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope>
+        <sys_update_name>sys_security_acl_003ab5d893cb7110cb9230018bba106c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 17:49:04</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</application>
+        <file_path/>
+        <instance_id>fe09b9bddbe6791cb1eb9027c59619f7</instance_id>
+        <instance_name>dev214569</instance_name>
+        <name>sys_security_acl_003ab5d893cb7110cb9230018bba106c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl"><sys_security_acl action="INSERT_OR_UPDATE"><active>true</active><admin_overrides>true</admin_overrides><advanced>false</advanced><condition table="x_1258941_gest_o_0_pedidos">numberISNOTEMPTY^EQ<item endquery="false" field="number" goto="false" newquery="false" operator="ISNOTEMPTY" or="false" value=""/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></condition><description>Allow create for records in x_1258941_gest_o_0_pedidos, for users with role x_1258941_gest_o_0.Analistas, and if the ACL condition (numberISNOTEMPTY^EQ) evaluates to true.</description><local_or_existing>Local</local_or_existing><name>x_1258941_gest_o_0_pedidos</name><operation display_value="create">create</operation><script/><security_attribute/><sys_class_name>sys_security_acl</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2023-12-07 14:57:14</sys_created_on><sys_id>003ab5d893cb7110cb9230018bba106c</sys_id><sys_mod_count>4</sys_mod_count><sys_name>x_1258941_gest_o_0_pedidos</sys_name><sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package><sys_policy/><sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope><sys_update_name>sys_security_acl_003ab5d893cb7110cb9230018bba106c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2023-12-07 17:49:04</sys_updated_on><type display_value="record">record</type></sys_security_acl></record_update>]]></payload>
+        <payload_hash>-2032774962</payload_hash>
+        <record_name>x_1258941_gest_o_0_pedidos</record_name>
+        <reverted_from/>
+        <source>6b1e288c938f7110cb9230018bba10f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 17:49:04</sys_created_on>
+        <sys_id>1981ee1093cf7110cb9230018bba105e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18c4565bc210000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 17:49:04</sys_updated_on>
+        <type>Access Control</type>
+        <update_guid>1181ee10fdcf7110b104c633d7e8185e</update_guid>
+        <update_guid_history>1181ee10fdcf7110b104c633d7e8185e:-2032774962,9a706adc2e8f711031de4de2914469c7:-1586191372,9c30e2dc488f7110649452f2724a32bf:321001498,96ef9e9c188f711076d20f166aa45466:1024694090,9c3af5d8f1cb7110d7e4b4a060093502:541745841</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-07 17:59:16</sys_created_on>
+        <sys_db_object display_value="" name="sys_security_acl">sys_security_acl</sys_db_object>
+        <sys_id>8758505228944d44ad771752203f7f64</sys_id>
+        <sys_metadata>003ab5d893cb7110cb9230018bba106c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_1258941_gest_o_0_pedidos</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package>
+        <sys_parent display_value="x_1258941_gest_o_0_pedidos">93820d409303b110cb9230018bba1078</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope>
+        <sys_scope_delete display_value="">02e0b1a10fb342b48208f98a1a7c91d1</sys_scope_delete>
+        <sys_update_name>sys_security_acl_003ab5d893cb7110cb9230018bba106c</sys_update_name>
+        <sys_update_version display_value="sys_security_acl_003ab5d893cb7110cb9230018bba106c">1981ee1093cf7110cb9230018bba105e</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-07 17:59:16</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

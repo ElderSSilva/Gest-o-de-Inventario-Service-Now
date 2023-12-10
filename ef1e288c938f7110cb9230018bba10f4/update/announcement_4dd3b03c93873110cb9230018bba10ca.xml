@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Urgent">339ea11ae7d4030075c2a117c2f6a9cf</display_style>
+        <from>2023-12-08 23:06:51</from>
+        <glyph>exclamation-circle</glyph>
+        <glyph_alt_text/>
+        <name>Eu vim fazer um anuncio</name>
+        <public>true</public>
+        <roles/>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>Shadow o ouriço é um</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-12-08 23:08:58</sys_created_on>
+        <sys_id>4dd3b03c93873110cb9230018bba10ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Eu vim fazer um anuncio</sys_name>
+        <sys_package display_value="Gestão de Inventário" source="x_1258941_gest_o_0">ef1e288c938f7110cb9230018bba10f4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Gestão de Inventário">ef1e288c938f7110cb9230018bba10f4</sys_scope>
+        <sys_update_name>announcement_4dd3b03c93873110cb9230018bba10ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-12-08 23:08:58</sys_updated_on>
+        <title>Eu vim fazer um anuncio</title>
+        <to/>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,52fa79f8e763320075c2a117c2f6a991</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=4dd3b03c93873110cb9230018bba10ca"/>
+</record_update>
